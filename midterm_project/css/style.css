@@ -1,0 +1,28 @@
+body {
+    background-color: blanchedalmond;
+    color: darkcyan;
+}
+
+.nav {
+    text-align: center;
+    list-style: none;
+
+}
+
+.nav li{
+    display: inline;
+    
+}
+
+.nav li a {
+    color: rgb(255, 255, 163);
+
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px dotted white;
+    padding: 50px;
+    background-color: aquamarine;
+}

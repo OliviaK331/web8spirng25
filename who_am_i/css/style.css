@@ -1,0 +1,36 @@
+body {
+    background-color: pink;
+    
+}
+
+.intro {
+        text-align: center;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    border: 3px dotted white;
+    padding: 10px;
+    background-color: rgb(247, 247, 142);
+}
+
+.nav {
+    text-align: center;
+    list-style: none;
+
+}
+
+.nav li{
+    display: inline;
+    
+}
+
+.nav li a {
+    color: white;
+
+}
+
+text{
+    color:white;
+}
